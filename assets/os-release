@@ -1,2 +1,12 @@
-[General]
-LogoPath=/opt/AlbuntuOS/logo.png
+NAME="AlbuntuOS"
+VERSION="22.04 LTS"
+ID=pop
+ID_LIKE="ubuntu debian"
+PRETTY_NAME="AlbuntuOS 22.04 I Love Alban Knox"
+VERSION_ID="22.04"
+HOME_URL="https://github.com/Kamin-13/AlbuntuOS"
+SUPPORT_URL=""
+BUG_REPORT_URL="https://github.com/Kamin-13/AlbuntuOS/issues"
+PRIVACY_POLICY_URL=""
+VERSION_CODENAME=ilovealbanknox
+UBUNTU_CODENAME=jammy
