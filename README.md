@@ -1,4 +1,4 @@
-# AlbuntuOS
+# AlbuntuOS (WIP)
 UwU-ize your Ubuntu Linux setup with Alban Knox the catboy!
 
 ---
