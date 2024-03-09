@@ -19,8 +19,8 @@ wget https://raw.githubusercontent.com/Kamin-13/AlbuntuOS/main/assets/clippie.pn
 #DL app launcher icon
 
 sudo mkdir /opt/AlbuntuOS
-sudo curl h -o /opt/AstolfOS/logo.png
-sudo curl https://raw.githubusercontent.com/ProgrammerAstolfo/AstolfOS/master/files/os-release -o /etc/os-release
-sudo curl https://raw.githubusercontent.com/ProgrammerAstolfo/AstolfOS/master/files/kcm-about-distrorc -o /etc/xdg/kcm-about-distrorc
+sudo curl https://raw.githubusercontent.com/Kamin-13/AlbuntuOS/main/assets/logo.png -o /opt/AlbuntuOS/logo.png
+sudo curl https://raw.githubusercontent.com/Kamin-13/AlbuntuOS/main/assets/os-release -o /etc/os-release
+sudo curl https://raw.githubusercontent.com/Kamin-13/AlbuntuOS/main/assets/kcm-about-distrorc -o /etc/xdg/kcm-about-distrorc
 
 neofetch --ascii ascii-art.txt
