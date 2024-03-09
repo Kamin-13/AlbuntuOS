@@ -9,3 +9,13 @@ kwriteconfig5 --file "$HOME/.config/plasma-org.kde.plasma.desktop-appletsrc" --g
 
 sudo curl https://raw.githubusercontent.com/Kamin-13/AlbuntuOS/main/assets/plasma.svgz -o /usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/splash/images/plasma.svgz
 #replace splash screen
+
+sudo apt install neofetch
+
+wget https://raw.githubusercontent.com/Kamin-13/AlbuntuOS/main/assets/ascii-art.txt
+#DL ascii art
+
+wget https://raw.githubusercontent.com/Kamin-13/AlbuntuOS/main/assets/clippie.png
+#DL app launcher icon
+
+neofetch --ascii ascii-art.txt
