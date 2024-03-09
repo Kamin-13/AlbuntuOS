@@ -30,7 +30,11 @@ sudo chmod +x install.sh
 8. Change the application launcher icon, follow the steps down below
 
 ![Step 1](/rm_assets/al_s1.png)
+
 ![Step 2](/rm_assets/al_s2.png)
+
 ![Step 3](/rm_assets/al_s3.png)
+
+![Step 4](/rm_assets/al_s4.png)
    
 9. Enjoy!!! Have an UwU day!!!
