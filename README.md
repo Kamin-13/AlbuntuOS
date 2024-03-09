@@ -16,3 +16,7 @@ sudo apt install kde-plasma-desktop
 ```
 3. **Reboot** your system
 4. Switch desktop enviroment if haven't automatically done
+
+![Screenshot of switching desktop enviroment](/rm_assets/DESwitch.png)
+
+5.Login normally
