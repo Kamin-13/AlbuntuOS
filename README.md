@@ -19,4 +19,11 @@ sudo apt install kde-plasma-desktop
 
 ![Screenshot of switching desktop enviroment](/rm_assets/DESwitch.png)
 
-5.Login normally
+5. Login normally
+6. Download the script and run
+```
+wget https://raw.githubusercontent.com/Kamin-13/AlbuntuOS/main/install.sh
+sudo chmod +x install.sh
+./install.sh
+```
+7.Enjoy!!! Have an UwU day!!!
