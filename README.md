@@ -26,4 +26,5 @@ wget https://raw.githubusercontent.com/Kamin-13/AlbuntuOS/main/install.sh
 sudo chmod +x install.sh
 ./install.sh
 ```
-7.Enjoy!!! Have an UwU day!!!
+7. **If it doesn't change the background image for you which happens even in testing machine**, set it manually `UwUassets/bg.png`
+8. Enjoy!!! Have an UwU day!!!
